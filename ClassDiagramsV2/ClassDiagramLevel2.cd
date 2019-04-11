@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="doorConfRoomBigBack">
+    <Position X="11" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Level2\Doors\doorConfRoomBigBack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="doorConfRoomBigFront">
+    <Position X="12.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Level2\Doors\doorConfRoomBigFront.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="doorConfRoomSmallFront">
+    <Position X="5.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Level2\Doors\doorConfRoomSmallFront.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="doorConfRoomSmallBack">
+    <Position X="4" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Level2\Doors\doorConfRoomSmallBack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="doorConfRoomSmallMiddle">
+    <Position X="0.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Level2\Doors\doorConfRoomSmallMiddle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="doorRoomEnd">
+    <Position X="2.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQAAAAAACAAAAAAAAAEAAAAAAAAAAABAQAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Level2\Doors\doorRoomEnd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="doorStairs2">
+    <Position X="9.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Level2\Doors\doorStairs2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="chaseEnd">
+    <Position X="9.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAEAAAAAAAAAgAAAAAAAABAQAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Level2\Enemies\chaseEnd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="keyEnd">
+    <Position X="0.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACQAAAAAACAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Level2\Keys\keyEnd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="triggerKeyEnd">
+    <Position X="2.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAABAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Level2\Keys\triggerKeyEnd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnityEngine.MonoBehaviour">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="LevelControl2">
+    <Position X="6.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Level2\LevelControl2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
