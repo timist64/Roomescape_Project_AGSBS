@@ -1,0 +1,2 @@
+detectionAngle = 70.0
+viewDistance = 10.0
